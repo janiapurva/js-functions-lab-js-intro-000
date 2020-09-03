@@ -2,7 +2,7 @@
 function happyHolidays() {
   return "Happy holidays!";
 }
-function happyholidaysTo(apurva) {
+function happyholidaysTo(name) {
   return"`Happyholidays, ${name}!`";
 }
 function happyCustomHolidayTo(holiday,name) {
